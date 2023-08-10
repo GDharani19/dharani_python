@@ -1,0 +1,4 @@
+ It's phenomenol to copy the referrence address from one variable to another variable.so modification of one variable is 
+        going to impact on the values pointed by the other variable It's phenomenol to copy the referrence address from one variable to another variable.so modification of one variable is 
+        going to impact on the values pointed by the other variable It's phenomenol to copy the referrence address from one variable to another variable.so modification of one variable is 
+        going to impact on the values pointed by the other variable
