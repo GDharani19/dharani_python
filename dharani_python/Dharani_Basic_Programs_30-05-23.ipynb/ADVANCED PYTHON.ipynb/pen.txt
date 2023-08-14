@@ -1,4 +1,2 @@
- It's phenomenol to copy the referrence address from one variable to another variable.so modification of one variable is 
-        going to impact on the values pointed by the other variable It's phenomenol to copy the referrence address from one variable to another variable.so modification of one variable is 
-        going to impact on the values pointed by the other variable It's phenomenol to copy the referrence address from one variable to another variable.so modification of one variable is 
-        going to impact on the values pointed by the other variable
+w 
+ we can manipulate the value in value space so that manipulation will happen in both A and B variables 
